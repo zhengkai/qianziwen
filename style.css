@@ -1,0 +1,30 @@
+tr.text td {
+	width: 74px;
+	padding: 0;
+	text-align: center;
+	overflow: hidden;
+}
+
+tr.text td:nth-of-type(4) {
+	padding-right: 32px;
+}
+
+tr.comment p {
+	width: 620px;
+
+}
+
+ruby {
+	font-size: 64px;
+	font-family: "方正魏碑_GBK", "楷体", sans-serif;
+}
+
+p {
+	font-size: 32px;
+	font-family: "楷体", sans-serif;
+}
+
+ruby rt {
+	font-family: sans-serif;
+	font-size: 24px;
+}
